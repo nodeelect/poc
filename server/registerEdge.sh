@@ -1,0 +1,1 @@
+easyrsa build-client-full edgename nopass
