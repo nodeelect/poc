@@ -1,2 +1,2 @@
-./easyrsa revoke someone
-./easyrsa gen-crl
+easyrsa revoke someone
+easyrsa gen-crl
